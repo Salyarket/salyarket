@@ -26,16 +26,30 @@ A l'issue de la formation initiale, ce fut le moment tant attendu de mettre en p
 
 - Authentification, API RESTful.
 
+**Environnement & DevOps**
+
+- Docker ;
+
+- CI/CD (GitHub Actions, notions de pipelines, déploiement automatisé) ;
+
+- npm / pnpm.
+
+**Tests & Qualité**
+
+- Jest / Vitest ;
+
+- ESLint / Prettier.
+
  **Outils & Méthodologie**
  
 - Git / GitHub
   
 - VS Code
+
+- Figma
   
 - Méthodologie Agile / Scrum
   
-- Figma
-
 🌱 **A court-terme**
 
 - Démarrage d'un stage en entreprise de 6 mois à partir d'octobre 2025. Je travaille également en parallèle sur des projets personnels pour enrichir mon portfolio.
