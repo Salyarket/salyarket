@@ -1,6 +1,6 @@
 ### Hello ici, moi c’est Saliha !
 
-En attente de passage de mon 🎓 de Conceptrice développeuse d'applications, formée chez O’clock. Je suis passionnée par les technologies, l’apprentissage continu et la création de projets utiles.
+Formée chez O’clock et en attente de passage de mon 🎓 de Conceptrice développeuse d'applications. Je suis passionnée par les technologies, l’apprentissage continu et la création de projets utiles.
 
 Ayant un cursus de graphiste, je suis allée vers d'autres horizons avant d'entamer une reconversion professionnelle dans le digital. Mon apprentissage s'est concentré sur des technos comme :
 
